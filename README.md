@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe! ☕👋
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções inovadoras e impactantes. Contribuo voluntariamente em alguns projetos e estou desenvolvendo alguns próprios, mas estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento.
+Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovadoras. Contribuo voluntariamente em alguns projetos e estou desenvolvendo alguns próprios, mas estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento.
 
 ## Sobre Mim
 
