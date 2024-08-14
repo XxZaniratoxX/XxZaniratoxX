@@ -1,12 +1,13 @@
 # Olá, eu sou o Felipe! ☕👋
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovadoras. Contribuo voluntariamente em alguns projetos e estou desenvolvendo alguns próprios, mas estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento.
+Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por resolver problemas e criar soluções inovadoras. Contribuo voluntariamente em alguns projetos e estou desenvolvendo alguns projetos próprios, mas estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento.
 
 ## Sobre Mim
 
-- 🔭 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga.
-- 🌱 Estou sempre em busca de novos conhecimentos e desafios para me aprimorar como desenvolvedor.
-- 💼 Procuro oportunidades para colaborar em projetos de código aberto ou ingressar em uma equipe de desenvolvimento.
+- 🔭 Atualmente, estou cursando o 1º período de Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga.
+- 🚀 Falo espanhol fluente e possuo nível avançado em Inglês.
+- 🌱 Estou sempre em busca de novos projetos e desafios para me aprimorar como desenvolvedor.
+- 💼 Procuro oportunidades de estágio para colaborar em projetos ou ingressar em uma equipe de desenvolvimento.
 - 🤝 Estou interessado em networking e em aprender com outros desenvolvedores.
 
 ## Linguagens e Ferramentas que Utilizo e que Estudo
