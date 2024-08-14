@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por resolver problemas 
 
 ## Sobre Mim
 
-- 🔭 Atualmente, estou cursando o 1º período de Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga.
+- 🔭 Cursando o 1º período de Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga.
 - 🚀 Falo espanhol fluente e possuo nível avançado em Inglês.
 - 🌱 Estou sempre em busca de novos projetos e desafios para me aprimorar como desenvolvedor.
 - 💼 Procuro oportunidades de estágio para colaborar em projetos ou ingressar em uma equipe de desenvolvimento.
