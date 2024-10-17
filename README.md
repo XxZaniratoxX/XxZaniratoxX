@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor de 24 anos, apaixonado por resolve
 
 ## Sobre Mim
 
-- 🔭 Cursando o 1º período de Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga e graduado em Engenharia de Produção pela Universidade Municipal de São Caetano do Sul.
+- 🔭 Cursando o 1º semestre de Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga e graduado em Engenharia de Produção pela Universidade Municipal de São Caetano do Sul.
 - 🚀 Falo espanhol fluente e possuo nível avançado em Inglês.
 - 🌱 Estou sempre em busca de novos projetos e desafios para me aprimorar como desenvolvedor.
 - 💼 Procuro oportunidades de estágio para colaborar em projetos ou ingressar em uma equipe de desenvolvimento.
