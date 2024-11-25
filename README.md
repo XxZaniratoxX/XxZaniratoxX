@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe! ☕👋
 
-Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnologia. Contribuo voluntariamente em alguns projetos de programação e estou desenvolvendo alguns projetos próprios, atualmente estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento.
+Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnologia, mais especificamente pela área de desenvolvimento. Contribuo voluntariamente em alguns projetos de programação e estou desenvolvendo alguns projetos próprios, atualmente estou em busca da minha primeira oportunidade de estágio na área de desenvolvimento.
 
 ## Sobre Mim
 
