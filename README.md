@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnolog
 - 🚀 Falo espanhol fluente e possuo nível avançado em Inglês.
 - 🌱 Estou sempre em busca de novos projetos e desafios para me aprimorar como desenvolvedor.
 - 💼 Procuro oportunidades de estágio para colaborar em projetos ou ingressar em uma equipe de desenvolvimento.
-- 🤝 Estou interessado em networking e em aprender com outros desenvolvedores.
+- 🤝 Estou interessado em me conectar e em aprender com outros desenvolvedores.
 
 ## Linguagens e Ferramentas que Utilizo e que Estudo
 
