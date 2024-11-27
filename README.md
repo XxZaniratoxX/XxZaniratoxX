@@ -30,11 +30,11 @@ Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnolog
 
 ## Projetos Destaques
 
+### Cadastro de Funcionários usando CRUD com VBA do Excel 
+Projeto feito durante todo o primeiro semestre do curso de análise e desenvolvimento de sistemas, que consiste em usar CRUD (Criar, Ler, Atualizar e Deletar) no VBA do Excel para o projeto proposto, o qual aplicamos em uma empresa real que está utilizando o nosso software para cadastrar os seus funcionários.
+
 ### To Do List
 Projeto "Lista de afazeres" feito para gerenciar tarefas e compromissos, otimizando o tempo e ajudando a manter o foco e produtividade. (Javascript, HTML e CSS)
-
-### Calculadora Sipmles
-Projeto "Calculadora Simples" feito para realizar cálculos básicos de soma, subtração, multiplicação e divisão. (Javascript, HTML e CSS)
 
 ## Contato
 
