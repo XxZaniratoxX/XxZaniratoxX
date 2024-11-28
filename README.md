@@ -44,7 +44,3 @@ Se você está interessado em trabalhar comigo ou colaborar em projetos, fique �
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipezanirato/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.zanirato01@gmail.com)
 
-
-Estou feliz em fazer parte da comunidade GitHub e continuar minha jornada de aprendizado em desenvolvimento frontend Javascript. Vamos nos conectar e criar coisas incríveis juntos!
-
-Obrigado por visitar meu perfil! 😊
