@@ -24,11 +24,10 @@ Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnolog
 Projeto feito durante todo o primeiro semestre do curso de análise e desenvolvimento de sistemas, que consiste em usar CRUD (Criar, Ler, Atualizar e Deletar) no VBA do Excel para o projeto proposto, o qual aplicamos em uma empresa real que está utilizando o nosso software para cadastrar os seus funcionários.
 
 ### To Do List
-Projeto "Lista de afazeres" feito para gerenciar tarefas e compromissos, otimizando o tempo e ajudando a manter o foco e produtividade. (Javascript, HTML e CSS)
+Projeto "Lista de afazeres" feito para gerenciar tarefas e compromissos, otimizando o tempo e ajudando a manter o foco e produtividade. 
+Ferramentas utilizadas: Javascript, HTML5 e CSS3.
 
 ## Contato 📬
-
-Se você está interessado em trabalhar comigo ou colaborar em projetos, fique à vontade para entrar em contato:
 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511992550740)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipezanirato/)
