@@ -16,11 +16,7 @@ Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnolog
 
 ## Linguagens e Ferramentas que Tenho Interesse
 
-<div style="display: inline_block">
-<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs&theme=light,express&theme=light)](https://skillicons.dev)
 
 ## Projetos Destaques
 
