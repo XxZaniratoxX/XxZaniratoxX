@@ -1,8 +1,8 @@
-# Olá, eu sou o Felipe! 👋
+# Olá, eu sou Felipe! 👋
 
 Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnologia, mais especificamente pela área de desenvolvimento. Contribuo voluntariamente em alguns projetos de programação e estou desenvolvendo alguns projetos próprios, atualmente estou em busca da minha primeira oportunidade de estágio na área da tecnologia.
 
-## Sobre Mim
+## Sobre Mim 🙂
 
 - 🔭 Cursando o 1º semestre de Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga e graduado em Engenharia de Produção pela Universidade Municipal de São Caetano do Sul.
 - 🚀 Falo português e espanhol fluentemente (com dupla cidadania - Brasil e Chile) e possuo nível avançado em Inglês (com curso e certificado).
@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnolog
 - 💼 Atualmente estou em busca de oportunidades de estágio na área da tecnologia.
 - 🤝 Estou interessado em me conectar e aprender com outras pessoas.
 
-## Linguagens e Ferramentas que Utilizo e que Estudo
+## Linguagens e Ferramentas Praticadas
 
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
