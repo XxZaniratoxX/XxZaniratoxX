@@ -10,15 +10,15 @@ Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnolog
 - 💼 Atualmente estou em busca de oportunidades de estágio na área da tecnologia.
 - 🤝 Estou interessado em me conectar e aprender com outras pessoas.
 
-## Linguagens e Ferramentas Praticadas
+## Linguagens e Ferramentas Praticadas 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-## Linguagens e Ferramentas que Tenho Interesse
+## Linguagens e Ferramentas que Tenho Interesse 🤓
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,ps&theme=light)](https://skillicons.dev)
 
-## Projetos Destaques
+## Projetos Destaques 🏆
 
 ### Cadastro de Funcionários usando CRUD com VBA do Excel 
 Projeto feito durante todo o primeiro semestre do curso de análise e desenvolvimento de sistemas, que consiste em usar CRUD (Criar, Ler, Atualizar e Deletar) no VBA do Excel para o projeto proposto, o qual aplicamos em uma empresa real que está utilizando o nosso software para cadastrar os seus funcionários.
@@ -26,7 +26,7 @@ Projeto feito durante todo o primeiro semestre do curso de análise e desenvolvi
 ### To Do List
 Projeto "Lista de afazeres" feito para gerenciar tarefas e compromissos, otimizando o tempo e ajudando a manter o foco e produtividade. (Javascript, HTML e CSS)
 
-## Contato
+## Contato 📬
 
 Se você está interessado em trabalhar comigo ou colaborar em projetos, fique à vontade para entrar em contato:
 
