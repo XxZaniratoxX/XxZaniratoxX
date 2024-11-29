@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnolog
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-## Linguagens e Ferramentas que Tenho Interesse 🤓
+## Ferramentas que Tenho Interesse 🤓
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,ps&theme=light)](https://skillicons.dev)
 
