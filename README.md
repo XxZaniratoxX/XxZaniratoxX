@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnolog
 ## Sobre Mim 🙂
 
 - 🔭 Cursando o 1º semestre de Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga e graduado em Engenharia de Produção pela Universidade Municipal de São Caetano do Sul.
-- 🚀 Falo português e espanhol fluentemente (com dupla cidadania - Brasil e Chile) e possuo nível avançado em Inglês (com curso e certificado).
+- 🚀 Falo português e espanhol fluentemente (com dupla cidadania - Brasil e Chile) e possuo nível upper-intermediate em Inglês (com certificado EF School).
 - 🌱 Procuro aprender algo novo a cada dia, colocando em prática o aprendizado adquirido.
 - 💼 Atualmente estou em busca de oportunidades de estágio na área da tecnologia.
 - 🤝 Estou interessado em me conectar e aprender com outras pessoas.
