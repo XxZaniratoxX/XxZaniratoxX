@@ -20,7 +20,7 @@ Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnolog
 
 ## Projetos Destaques 🏆
 
-### Cadastro de Funcionários usando CRUD com VBA do Excel 
+### Cadastro de Funcionários usando CRUD (Create Read Update Delete) com VBA do Excel 
 Projeto feito durante todo o primeiro semestre do curso de análise e desenvolvimento de sistemas, que consiste em usar CRUD (Criar, Ler, Atualizar e Deletar) no VBA do Excel para o projeto proposto, o qual aplicamos em uma empresa real que está utilizando o nosso software para cadastrar os seus funcionários.
 Ferramentas utilizadas: Excel, Integração de API's (do google por exemplo, para preenchimento automático de endereço após pesquisa de cep).
 
