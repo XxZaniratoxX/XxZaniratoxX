@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil, sou um profissional de 24 anos apaixonado por tecnologi
 
 ## Sobre Mim 🙂
 
-- 🔭 Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga e graduado em Engenharia de Produção pela Universidade Municipal de São Caetano do Sul.
+- 🔭 Graduado em Engenharia de Produção pela Universidade Municipal de São Caetano do Sul, em transição para a área de dados. Atualmente cursando minha segunda graduação em Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga, buscando expandir minhas competências técnicas e aprofundar meu conhecimento na área de tecnologia.
 - 🚀 Falo português, espanhol e inglês fluentemente.
 - 💼 Atualmente estou em busca de oportunidades de estágio na área de dados.
 
