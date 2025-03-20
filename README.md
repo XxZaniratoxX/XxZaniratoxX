@@ -1,6 +1,6 @@
 # Olá, eu sou Felipe! 👋
 
-Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnologia, mais especificamente pela área de desenvolvimento. Contribuo voluntariamente em alguns projetos de programação e estou desenvolvendo alguns projetos próprios, atualmente estou em busca da minha primeira oportunidade de estágio na área da tecnologia.
+Bem-vindo ao meu perfil, sou um profissional de 24 anos apaixonado por tecnologia, mais especificamente pela área de dados. Contribuo voluntariamente em alguns projetos de análise de dados e estou desenvolvendo alguns projetos próprios, atualmente estou em busca da minha primeira oportunidade de estágio na área de dados.
 
 ## Sobre Mim 🙂
 
@@ -12,11 +12,7 @@ Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnolog
 
 ## Linguagens e Ferramentas Praticadas 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git)](https://skillicons.dev)
-
-## Ferramentas que Tenho Interesse 🤓
-
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git)](https://skillicons.dev)
 
 ## Projetos Destaques 🏆
 
@@ -24,9 +20,6 @@ Bem-vindo ao meu perfil, sou um desenvolvedor de 24 anos apaixonado por tecnolog
 Projeto feito durante todo o primeiro semestre do curso de análise e desenvolvimento de sistemas, que consiste em usar CRUD (Criar, Ler, Atualizar e Deletar) no VBA do Excel para o projeto proposto, o qual aplicamos em uma empresa real que está utilizando o nosso software para cadastrar os seus funcionários.
 Ferramentas utilizadas: Excel, Integração de API's (do google por exemplo, para preenchimento automático de endereço após pesquisa de cep).
 
-### To Do List
-Projeto "Lista de afazeres" feito para gerenciar tarefas e compromissos, otimizando o tempo e ajudando a manter o foco e produtividade. 
-Ferramentas utilizadas: Javascript, HTML5 e CSS3.
 
 ## Contato 📬
 
