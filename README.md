@@ -1,6 +1,6 @@
-# Olá, eu sou Felipe! 👋
+# Olá, eu sou Felipe, bem-vindo ao meu perfil! 👋
 
-Bem-vindo ao meu perfil, sou um profissional apaixonado por tecnologia, mais especificamente pela área de programação e dados. Contribuo voluntariamente em alguns projetos de análise de dados e estou desenvolvendo alguns projetos próprios envolvendo desenvolvimento utilizando linguagens de programação e frameworks atuais, atualmente estou em busca da minha primeira oportunidade de estágio na área.
+Sou um profissional apaixonado por tecnologia, mais especificamente pela área de programação e dados. Contribuo voluntariamente em alguns projetos de análise de dados e estou desenvolvendo alguns projetos próprios envolvendo desenvolvimento utilizando linguagens de programação e frameworks atuais, atualmente estou em busca da minha primeira oportunidade de estágio na área.
 
 ## Sobre Mim 🙂
 
