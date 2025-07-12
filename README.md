@@ -10,7 +10,7 @@ Sou um profissional apaixonado por tecnologia, mais especificamente pela área d
 
 ## Linguagens e Ferramentas Praticadas 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=py,sql,js,react,nodejs,vite,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,react,nodejs,vite,github,git)](https://skillicons.dev)
 
 ## Projetos Destaques 🏆
 
