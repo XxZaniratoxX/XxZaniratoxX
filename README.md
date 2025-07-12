@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 👋
 
-Sou um profissional apaixonado por tecnologia, mais especificamente pela área de dados. Contribuo voluntariamente em alguns projetos de análise de dados e estou desenvolvendo alguns projetos próprios envolvendo desenvolvimento utilizando linguagens de programação e ferramentas atuais, atualmente estou em busca da minha primeira oportunidade de estágio na área de dados.
+Sou um profissional apaixonado por tecnologia, mais especificamente pela área de dados. Contribuo voluntariamente em alguns projetos de análise de dados e estou desenvolvendo alguns projetos próprios envolvendo desenvolvimento utilizando linguagens de programação e ferramentas atuais (Python, Power BI, SQL, Excel e IA), atualmente estou em busca da minha primeira oportunidade de estágio na área de dados.
 
 ## Sobre Mim 🙂
 
