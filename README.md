@@ -4,7 +4,7 @@ Sou um profissional apaixonado por tecnologia, mais especificamente pela área d
 
 ## Sobre Mim 🙂
 
-- 🔭 Graduado em Engenharia de Produção pela Universidade Municipal de São Caetano do Sul, em transição para a área de tecnologia. Atualmente cursando minha segunda graduação em Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga, buscando expandir minhas competências técnicas e aprofundar meu conhecimento na área de tecnologia.
+- 🔭 Graduado em Engenharia de Produção pela Universidade Municipal de São Caetano do Sul, em transição para a área de tecnologia. Atualmente cursando minha segunda graduação em Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga.
 - 🚀 Falo português, espanhol e inglês fluentemente.
 - 💼 Atualmente estou em busca de oportunidades de estágio na área de dados.
 
