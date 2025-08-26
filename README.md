@@ -1,10 +1,10 @@
 # Bem-vindo ao meu perfil! 👋
 
-Sou um profissional apaixonado por tecnologia, mais especificamente pela área de dados. Contribuo voluntariamente em alguns projetos de análise de dados e estou desenvolvendo alguns projetos próprios utilizando linguagens de programação e ferramentas atuais (Python, SQL, Power BI, Excel e IA), atualmente estou em busca da minha primeira oportunidade de estágio na área de dados.
+Sou um profissional apaixonado por tecnologia, mais especificamente pela área de dados. Atualmente desenvolvi projetos próprios nas linguagens e ferramentas: Python, SQL, Power BI, Excel e IA, atualmente estou em busca da minha primeira oportunidade de estágio na área de dados.
 
 ## Sobre Mim 🙂
 
-- 🔭 Graduado em Engenharia de Produção pela Universidade Municipal de São Caetano do Sul, em transição para a área de tecnologia. Atualmente cursando minha segunda graduação em Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga.
+- 🔭 Graduado em Engenharia de Produção, em transição para a área de dados. Atualmente cursando Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga.
 - 🚀 Falo português, espanhol e inglês fluentemente.
 - 💼 Atualmente estou em busca de oportunidades de estágio na área de dados.
 
@@ -24,6 +24,7 @@ Ferramentas utilizadas: Excel, Integração de API's (do google por exemplo, par
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511992550740)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipezanirato/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.zanirato01@gmail.com)
+
 
 
 
