@@ -4,7 +4,7 @@ Sou um profissional apaixonado por tecnologia, mais especificamente pela área d
 
 ## Sobre Mim 🙂
 
-- 🔭 Graduado em Engenharia de Produção, em transição para a área de dados. Atualmente cursando Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga.
+- 🔭 Graduado em Engenharia de Produção, em transição para a área de dados. Atualmente cursando Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga (2º Semestre).
 - 🚀 Falo português, espanhol e inglês fluentemente.
 - 💼 Atualmente estou em busca de oportunidades de estágio na área de dados.
 
@@ -24,6 +24,7 @@ Ferramentas utilizadas: Excel, Integração de API's (do google por exemplo, par
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511992550740)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipezanirato/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.zanirato01@gmail.com)
+
 
 
 
