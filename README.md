@@ -15,6 +15,12 @@ Atualmente estou em busca da minha primeira oportunidade de estágio/analista j�
 
 ## Projetos Destaques 🏆
 
+### 📊 Dashboards em Power BI
+
+Repositório com projetos de **análise de dados e visualização em Power BI**, desenvolvidos para aprimorar a tomada de decisão e o monitoramento de indicadores de negócio em diferentes áreas: **Financeira, Logística e Vendas**.
+
+Cada dashboard foi construído a partir de um **business case realista**, aplicando conceitos de **modelagem de dados, criação de KPIs e storytelling visual**.
+
 ### 💻 Sistema de Cadastro de Funcionários com VBA no Excel
 
 Aplicação desenvolvida em VBA para gerenciar funcionários, escolas e EPIs diretamente no Excel. O sistema implementa operações CRUD, com UserForms interativos, validação de dados e automação de planilhas, oferecendo uma solução prática e eficiente para controle administrativo.
@@ -29,6 +35,7 @@ Aplicação simples de lista de tarefas desenvolvida com HTML, CSS e JavaScript 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511992550740)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipezanirato/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.zanirato01@gmail.com)
+
 
 
 
