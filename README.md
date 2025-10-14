@@ -19,12 +19,17 @@ Atualmente estou em busca da minha primeira oportunidade de estágio/analista j�
 
 Aplicação desenvolvida em VBA para gerenciar funcionários, escolas e EPIs diretamente no Excel. O sistema implementa operações CRUD, com UserForms interativos, validação de dados e automação de planilhas, oferecendo uma solução prática e eficiente para controle administrativo.
 
+### 📝 To-Do List com HTML, CSS e JavaScript
+
+Aplicação simples de lista de tarefas desenvolvida com HTML, CSS e JavaScript puro. Permite adicionar, marcar como concluída e excluir tarefas, armazenando os dados no localStorage para manter as informações mesmo após fechar o navegador.
+
 
 ## Contato 📬
 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511992550740)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipezanirato/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.zanirato01@gmail.com)
+
 
 
 
