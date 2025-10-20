@@ -19,11 +19,11 @@ Atualmente estou em busca da minha primeira oportunidade de estágio/analista j�
 Conjunto de projetos práticos que aplicam Python em diferentes áreas: automação de processos, análise de dados, machine learning e inteligência artificial.
 Incluem desde o cadastro automático de produtos até análises de clientes e a criação de um chatbot interativo com IA.
 
-### 📊 Dashboards em Power BI
+### 📊 Projetos em Power BI
 
 Repositório com projetos de **análise de dados e visualização em Power BI**, desenvolvidos para aprimorar a tomada de decisão e o monitoramento de indicadores de negócio em diferentes áreas: **Financeira, Logística e Vendas**.
 
-Cada dashboard foi construído a partir de um **business case realista**, aplicando conceitos de **modelagem de dados, criação de KPIs e storytelling visual**.
+Cada dashboard foi construído a partir de um **business case realista**, aplicando conceitos de **modelagem e tratamento de dados, linguagem DAX, criação de KPIs e storytelling visual**.
 
 ### 💻 Sistema de Cadastro de Funcionários com VBA no Excel
 
@@ -39,6 +39,7 @@ Aplicação simples de lista de tarefas desenvolvida com HTML, CSS e JavaScript 
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511992550740)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipezanirato/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.zanirato01@gmail.com)
+
 
 
 
